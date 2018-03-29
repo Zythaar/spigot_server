@@ -1,0 +1,29 @@
+lastAccountName: Felfis42
+timestamps:
+  login: 1516844198892
+  logout: 1516849941706
+  lastteleport: 1516842237794
+ipAddress: 188.100.229.156
+lastlocation:
+  world: ti_logic
+  x: -518.6860650045661
+  y: 4.0
+  z: 541.8403303265877
+  yaw: -182.7497
+  pitch: 29.849995
+geolocation: 'null'
+logoutlocation:
+  world: world
+  x: -202.83734082529912
+  y: 90.0
+  z: 193.26463675479306
+  yaw: -59.55011
+  pitch: 31.800007
+homes:
+  home:
+    world: world
+    x: -199.92471882317466
+    y: 90.0
+    z: 202.938939609152
+    yaw: -177.30003
+    pitch: 5.8500023

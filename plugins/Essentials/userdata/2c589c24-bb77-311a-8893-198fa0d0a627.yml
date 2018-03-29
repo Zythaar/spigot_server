@@ -1,0 +1,21 @@
+geolocation: 'null'
+lastAccountName: Lord_Ladix
+timestamps:
+  login: 1517765077093
+  logout: 1517765567106
+  lastteleport: 1517765111455
+ipAddress: 217.245.104.109
+logoutlocation:
+  world: Lobby
+  x: 350.17323724377576
+  y: 93.90760185035892
+  z: -565.9863700846595
+  yaw: 132.68042
+  pitch: 65.09995
+lastlocation:
+  world: Lobby
+  x: 339.91196997088764
+  y: 65.91311606080482
+  z: -538.4147748996178
+  yaw: -277.14893
+  pitch: 71.95608

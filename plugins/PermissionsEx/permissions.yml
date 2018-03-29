@@ -1,0 +1,129 @@
+groups:
+  griever:
+    options:
+      rank: '1100'
+      prefix: '&f[&fGriever&f]&7 '
+    permissions: []
+  guest:
+    options:
+      default: true
+      rank: '1000'
+      prefix: '&f[Guest] &7'
+    permissions:
+    - bukkit.command.help
+    - -bukkit.command.*
+  member:
+    options:
+      rank: '900'
+      prefix: '&8[&8Member&8]&7 '
+    permissions:
+    - multiverse.teleport.self.*
+    - essentials.worlds.lobby
+    - essentials.worlds.pvp
+    - essentials.home
+    - essentials.spawn
+    - essentials.sethome.bed
+    - essentials.interact.*
+    - -multiverse.access.ti_logic
+    - essentials.sethome
+    - essentials.build.*
+  vip:
+    options:
+      rank: '800'
+      prefix: '&e[&eVIP&e]&7 '
+    inheritance:
+    - member
+    permissions:
+    - essentials.world
+    - essentials.use
+    - worldedit.*
+    - essentials.tp
+    - essentials.gamemode.*
+  admin:
+    permissions:
+    - permissions.*
+    options:
+      rank: '1'
+      prefix: '&4[&4Admin&4]&7 '
+  mod:
+    options:
+      rank: '100'
+      prefix: '&1[&1Mod&1]&7  '
+    inheritance:
+    - vip
+    permissions:
+    - worldedit.*
+  blue: {}
+  red: {}
+schema-version: 1
+users:
+  7a69171c-597a-4609-ad33-5bee432e2ec0:
+    group:
+    - admin
+    permissions:
+    - permissions.*
+    options:
+      name: ZythaaR
+  edcbfed1-047e-45ec-9752-6b635ab7170a:
+    group:
+    - member
+    options:
+      name: Felfis42
+  cf55d209-28b0-4a72-9189-847804c0a89c:
+    group:
+    - member
+    options:
+      name: Lord_Ladix
+  19a8df91-405f-46f8-91d6-63a86587180c:
+    group:
+    - member
+    options:
+      name: LadixYT
+  6da8704a-df31-34da-b00d-109f49eb3be0:
+    group:
+    - admin
+    options:
+      name: ZythaaR
+    permissions:
+    - permissions.*
+  478369d5-06ee-3874-afcf-dee55e2b3ad3:
+    group:
+    - mod
+    options:
+      name: Nethrezin
+  19692fee-1d71-3073-accf-35df012be462:
+    group:
+    - member
+    options:
+      name: LadixYT
+  a7074fad-f0cd-3a09-8783-ff07e2ae6877:
+    group:
+    - red
+    - vip
+    options:
+      name: Felfis42
+  4d11bc7f-ef97-3753-a298-51e29b4d334a:
+    group:
+    - mod
+    options:
+      name: DerWandelndeNils
+  2c589c24-bb77-311a-8893-198fa0d0a627:
+    group:
+    - vip
+    options:
+      name: Lord_Ladix
+  2b923bb0-82f0-3eaf-83fd-3a25a3e2c7b8:
+    group:
+    - member
+    options:
+      name: KanzlerLuzifer
+  b0969ef3-c09b-48d5-ab16-cbeea4304625:
+    group:
+    - mod
+    options:
+      name: Darth_Distress
+  f355f7a3-4899-3914-8b10-c66a9768b7d5:
+    group:
+    - mod
+    options:
+      name: Darth_Distress

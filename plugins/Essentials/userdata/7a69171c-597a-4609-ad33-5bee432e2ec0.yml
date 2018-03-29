@@ -1,0 +1,29 @@
+lastAccountName: ZythaaR
+timestamps:
+  login: 1518191291568
+  lastteleport: 1516902618541
+  logout: 1518194719333
+ipAddress: 127.0.0.1
+afk: false
+lastlocation:
+  world: ti_logic
+  x: 288.5
+  y: 44.0
+  z: 179.5
+  yaw: -358.65118
+  pitch: 35.55008
+homes:
+  home:
+    world: world
+    x: -201.59375634306295
+    y: 90.0
+    z: 193.5187212483679
+    yaw: -23.27835
+    pitch: 23.550053
+logoutlocation:
+  world: ti_logic
+  x: -225.22752189598202
+  y: 94.0
+  z: 613.6577050487505
+  yaw: 165.90039
+  pitch: 41.400005

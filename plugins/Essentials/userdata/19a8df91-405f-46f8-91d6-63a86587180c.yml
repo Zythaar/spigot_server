@@ -1,0 +1,20 @@
+lastAccountName: LadixYT
+timestamps:
+  login: 1516902593821
+  logout: 1516903477453
+ipAddress: 217.224.105.102
+geolocation: 'null'
+lastlocation:
+  world: world
+  x: -205.57112086308402
+  y: 102.7531999805212
+  z: 192.3513302440443
+  yaw: 64.973724
+  pitch: 16.500113
+logoutlocation:
+  world: ti_logic
+  x: 12.699999988079071
+  y: 17.933128446254226
+  z: 200.22811241213319
+  yaw: 275.99817
+  pitch: 40.649967

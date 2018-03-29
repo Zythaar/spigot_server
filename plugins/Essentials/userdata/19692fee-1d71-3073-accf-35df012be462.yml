@@ -1,0 +1,29 @@
+lastAccountName: LadixYT
+timestamps:
+  login: 1517188381544
+  logout: 1517191023599
+  lastteleport: 1517189291399
+ipAddress: 217.224.108.15
+geolocation: 'null'
+logoutlocation:
+  world: pvp
+  x: 646.6598853934116
+  y: 4.0
+  z: 565.6909694010227
+  yaw: 321.88525
+  pitch: 45.74998
+lastlocation:
+  world: Lobby
+  x: 695.171601895988
+  y: 4.0
+  z: -612.4435179994894
+  yaw: 316.35016
+  pitch: 55.79996
+homes:
+  home:
+    world: pvp
+    x: 649.0183506766546
+    y: 6.0
+    z: 555.9239480164792
+    yaw: 209.40207
+    pitch: 6.5999565

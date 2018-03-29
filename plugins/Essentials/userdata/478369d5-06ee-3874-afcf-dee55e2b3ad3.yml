@@ -1,0 +1,21 @@
+lastAccountName: Nethrezin
+timestamps:
+  login: 1519666627848
+  logout: 1519667569113
+ipAddress: 91.61.118.109
+geolocation: 'null'
+logoutlocation:
+  world: ti_logic
+  x: 286.16239738674784
+  y: 55.0
+  z: 154.7777914897686
+  yaw: -223.81897
+  pitch: 16.799908
+afk: false
+lastlocation:
+  world: Lobby
+  x: 565.3000000119209
+  y: 106.95749690148087
+  z: -574.4506831778541
+  yaw: -32.10013
+  pitch: 16.500029

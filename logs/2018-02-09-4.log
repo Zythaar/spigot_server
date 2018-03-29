@@ -1,0 +1,206 @@
+[16:47:37] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:47:37] [Server thread/INFO]: Loading properties
+[16:47:37] [Server thread/INFO]: Default game type: SURVIVAL
+[16:47:37] [Server thread/INFO]: Generating keypair
+[16:47:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:47:37] [Server thread/INFO]: Using default channel type
+[16:47:37] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1c40a81 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[16:47:38] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[16:47:38] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.4
+[16:47:38] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[16:47:38] [Server thread/INFO]: [VoidGenerator] Loading VoidGenerator v1.0
+[16:47:38] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[16:47:38] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[16:47:38] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
+[16:47:38] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b579
+[16:47:38] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.0.1-b579
+[16:47:38] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b579
+[16:47:38] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.0.1-b579
+[16:47:38] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.0.1-b579
+[16:47:38] [Server thread/INFO]: [VoidGenerator] Enabling VoidGenerator v1.0
+[16:47:38] [Server thread/INFO]: VoidGenerator has been enabled!
+[16:47:38] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[16:47:38] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[16:47:38] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[16:47:38] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:47:38] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[16:47:38] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[16:47:38] [Server thread/INFO]: Preparing level "world"
+[16:47:38] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2036629928817353119)
+[16:47:39] [Server thread/INFO]: Preparing spawn area: 28%
+[16:47:40] [Server thread/INFO]: Preparing start region for level 1 (Seed: 2036629928817353119)
+[16:47:41] [Server thread/INFO]: Preparing start region for level 2 (Seed: 2036629928817353119)
+[16:47:41] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[16:47:41] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[16:47:41] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[16:47:41] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[16:47:41] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[16:47:41] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.4
+[16:47:41] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[16:47:41] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[16:47:41] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[16:47:41] [Server thread/WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 9.0.4).
+[16:47:41] [Server thread/WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[16:47:41] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[16:47:42] [Server thread/INFO]: Preparing start region for level 3 (Seed: 2948141378161158391)
+[16:47:43] [Server thread/INFO]: Preparing start region for level 4 (Seed: -5526950800615818024)
+[16:47:44] [Server thread/INFO]: Preparing start region for level 5 (Seed: 7777434115885931142)
+[16:47:45] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[16:47:45] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[16:47:45] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[16:47:45] [Server thread/INFO]: [WorldGuard] (Lobby) TNT ignition is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (Lobby) Lighters are PERMITTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (Lobby) Lava fire is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (Lobby) Fire spread is UNRESTRICTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby'
+[16:47:45] [Server thread/INFO]: [WorldGuard] (pvp) TNT ignition is PERMITTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (pvp) Lighters are PERMITTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (pvp) Lava fire is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (pvp) Fire spread is UNRESTRICTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'pvp'
+[16:47:45] [Server thread/INFO]: [WorldGuard] (ti_logic) TNT ignition is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (ti_logic) Lighters are PERMITTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (ti_logic) Lava fire is blocked.
+[16:47:45] [Server thread/INFO]: [WorldGuard] (ti_logic) Fire spread is UNRESTRICTED.
+[16:47:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'ti_logic'
+[16:47:45] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:47:45] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b579
+[16:47:45] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[16:47:45] [Server thread/INFO]: No kits found to migrate.
+[16:47:45] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:47:45] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[16:47:45] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:47:46] [Server thread/INFO]: Using locale en_US
+[16:47:46] [Server thread/INFO]: [Essentials] Using Spigot 1.7.10+ ServerListPingEvent iterator
+[16:47:46] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:47:46] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[16:47:46] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[16:47:46] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.0.1-b579
+[16:47:46] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b579
+[16:47:46] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.0.1-b579
+[16:47:46] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.0.1-b579
+[16:47:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:47:46] [Server thread/INFO]: Done (8.119s)! For help, type "help" or "?"
+[16:47:46] [pool-3-thread-8/INFO]: [Vault] Checking for Updates ... 
+[16:47:46] [pool-3-thread-3/INFO]: [PlugMan] No update was found.
+[16:47:47] [pool-3-thread-8/INFO]: [Vault] No new version available
+[16:48:11] [User Authenticator #1/INFO]: UUID of player ZythaaR is 7a69171c-597a-4609-ad33-5bee432e2ec0
+[16:48:11] [Server thread/INFO]: ZythaaR[/127.0.0.1:9364] logged in with entity id 260 at ([ti_logic]194.080762196466, 65.0, 162.7370603622508)
+[16:52:00] [Server thread/INFO]: CommandBlock at 147,4,193 issued server command: /time set 0
+[16:54:14] [User Authenticator #2/INFO]: UUID of player Darth_Distress is b0969ef3-c09b-48d5-ab16-cbeea4304625
+[16:54:14] [Server thread/INFO]: Darth_Distress[/93.233.85.188:50516] logged in with entity id 261 at ([world]-227.5, 74.0, 243.5)
+[16:54:14] [pool-28-thread-1/INFO]: Creating empty config: D:\Games\__Minecraft\CraftBukkit\plugins\Essentials\userdata\b0969ef3-c09b-48d5-ab16-cbeea4304625.yml
+[16:54:15] [Server thread/INFO]: Darth_Distress has made the advancement [Getting an Upgrade]
+[16:54:23] [Server thread/INFO]: Darth_Distress lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[16:54:23] [Server thread/INFO]: Darth_Distress left the game
+[16:54:47] [Server thread/INFO]: ZythaaR issued server command: /mvtp lobby
+[16:56:18] [User Authenticator #3/INFO]: UUID of player Darth_Distress is b0969ef3-c09b-48d5-ab16-cbeea4304625
+[16:56:18] [Server thread/INFO]: Darth_Distress[/93.233.85.188:50586] logged in with entity id 262 at ([Lobby]574.0, 4.0, -567.0)
+[16:58:48] [Server thread/INFO]: ZythaaR issued server command: /pex user Darth_Distress group add mod
+[17:00:34] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,622,12,614
+[17:00:34] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,622,12,614
+[17:00:34] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,622,12,614
+[17:00:34] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,622,12,614
+[17:00:35] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,622,12,612
+[17:00:35] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,622,12,612
+[17:00:35] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,622,12,612
+[17:00:36] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,622,12,612
+[17:00:38] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,623,12,614
+[17:00:40] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,623,12,612
+[17:00:46] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,620,14,614
+[17:00:52] [Server thread/INFO]: Darth_Distress blew up
+[17:00:56] [Server thread/WARN]: Darth_Distress was kicked for floating too long!
+[17:00:56] [Server thread/INFO]: Darth_Distress lost connection: Flying is not enabled on this server
+[17:00:56] [Server thread/INFO]: Darth_Distress left the game
+[17:00:56] [Server thread/WARN]: handleDisconnection() called twice
+[17:01:10] [User Authenticator #4/INFO]: UUID of player Darth_Distress is b0969ef3-c09b-48d5-ab16-cbeea4304625
+[17:01:10] [Server thread/INFO]: Darth_Distress[/93.233.85.188:50600] logged in with entity id 406 at ([Lobby]574.0, 4.0, -567.0)
+[17:01:18] [Server thread/INFO]: ZythaaR issued server command: /tp Darth_Distress ZythaaR
+[17:01:41] [Server thread/INFO]: ZythaaR issued server command: /tp Darth_Distress ZythaaR
+[17:01:54] [Server thread/INFO]: Darth_Distress blew up
+[17:02:36] [Server thread/INFO]: CommandBlock at 147,4,193 issued server command: /time set 0
+[17:02:43] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,574,12,571
+[17:02:43] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,574,12,571
+[17:02:43] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,574,12,571
+[17:02:43] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,574,12,571
+[17:02:44] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,572,12,571
+[17:02:45] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,572,12,571
+[17:02:45] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,572,12,571
+[17:02:45] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,572,12,571
+[17:02:51] [Server thread/WARN]: §3[Darth_Distress] §r placed: §6 TNT at: pvp,574,14,572
+[17:07:11] [Server thread/INFO]: [@] Start setting up the arena!
+[17:07:11] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:12] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:12] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:13] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:13] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:13] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:14] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:14] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:15] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:15] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:15] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:16] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:16] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:17] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:17] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:17] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:18] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:18] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:19] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:19] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:19] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:20] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:20] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:21] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:21] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:21] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:22] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:22] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:23] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:23] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:23] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:24] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:24] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:25] [Server thread/INFO]: [@: 29700 blocks cloned]
+[17:07:25] [Server thread/INFO]: [@] Arena setup finished!
+[17:07:33] [Server thread/INFO]: ZythaaR issued server command: /mvtp logic
+[17:07:42] [Netty Server IO #2/INFO]: [m<[0;31;22m[[0;31;22mAdmin[0;31;22m][0;37;22m [0;31;22mZythaaR[m> mvtp logic[m
+[17:07:59] [Server thread/INFO]: Darth_Distress issued server command: /mvtp logic
+[17:08:20] [Server thread/INFO]: CommandBlock at 156,1,227 issued server command: /tp ZythaaR 288.5 55 157.5
+[17:08:22] [Server thread/INFO]: CommandBlock at 156,1,227 issued server command: /tp Darth_Distress 288.5 55 157.5
+[17:09:40] [Server thread/INFO]: CommandBlock at 287,40,174 issued server command: /tp ZythaaR 288 47 179
+[17:09:41] [Server thread/INFO]: [@] ZythaaR joined the Blue team
+[17:09:41] [Server thread/INFO]: CommandBlock at 289,43,180 issued server command: /tp ZythaaR 287 45 160
+[17:09:43] [Server thread/INFO]: CommandBlock at 287,40,174 issued server command: /tp Darth_Distress 288 47 179
+[17:09:45] [Server thread/INFO]: [@] Darth_Distress joined the Blue team
+[17:09:45] [Server thread/INFO]: CommandBlock at 289,43,180 issued server command: /tp Darth_Distress 287 45 160
+[17:13:12] [Server thread/INFO]: CommandBlock at 147,4,193 issued server command: /time set 0
+[17:23:48] [Server thread/INFO]: CommandBlock at 147,4,193 issued server command: /time set 0
+[17:34:24] [Server thread/INFO]: CommandBlock at 147,4,193 issued server command: /time set 0
+[17:39:20] [Netty Server IO #2/INFO]: [m<[0;31;22m[[0;31;22mAdmin[0;31;22m][0;37;22m [0;31;22mZythaaR[m> hi[m
+[17:39:20] [Netty Server IO #7/INFO]: [m<[0;34;22m[[0;34;22mMod[0;34;22m][0;37;22m  Darth_Distress[m> test[m
+[17:41:32] [Server thread/INFO]: Darth_Distress lost connection: Disconnected
+[17:41:32] [Server thread/INFO]: Darth_Distress left the game
+[17:45:00] [Server thread/INFO]: CommandBlock at 147,4,193 issued server command: /time set 0
+[17:45:19] [Server thread/INFO]: ZythaaR lost connection: Disconnected
+[17:45:19] [Server thread/INFO]: ZythaaR left the game
+[17:51:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6547ms behind, skipping 130 tick(s)
+[17:55:40] [Server thread/INFO]: CommandBlock at 147,4,193 issued server command: /time set 0
+[18:06:16] [Server thread/INFO]: CommandBlock at 147,4,193 issued server command: /time set 0
+[18:16:52] [Server thread/INFO]: CommandBlock at 147,4,193 issued server command: /time set 0
